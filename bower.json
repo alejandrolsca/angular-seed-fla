@@ -1,0 +1,8 @@
+{
+  "name": "angular-seed-fla",
+  "private": "true",
+  "dependencies": {
+    "angular": "~1.2.26",
+    "ui-router": "~0.2.11"
+  }
+}
